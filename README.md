@@ -38,6 +38,7 @@ Make sure the page adapts to different screen sizes using media queries.
 Maintain readability and layout integrity on both desktop and mobile.
 
 ## HTML Code:
+```
 <!-- <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,9 +174,9 @@ Resend Verification Email</h4>
   </div>
 </body>
 </html>
-
+```
 ## CSS Code:
-
+```
 *{
   margin: 0;
   padding: 0;
@@ -270,6 +271,7 @@ body,html{
 .login-link a {
   color: orange;
 }
+```
 ## Output:
 ![Screenshot 2025-07-09 201813](https://github.com/user-attachments/assets/5c9e1650-8cf7-4d21-adb9-2f58c4aad572)
 
